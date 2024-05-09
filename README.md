@@ -29,10 +29,3 @@ Os principais insights obtidos nesta análise incluem:
 ## Contribuição
 Se você deseja contribuir para este projeto, sinta-se à vontade para abrir problemas, enviar solicitações de pull ou fornecer feedback. Todas as formas de contribuição são bem-vindas!
 
-## Contato
-Para mais informações ou dúvidas sobre este projeto, entre em contato com celiomaciel50@gmail.com.
-
-## Licença
-Este projeto é distribuído sob a licença MIT. Sinta-se à vontade para usá-lo conforme necessário.
-
-
