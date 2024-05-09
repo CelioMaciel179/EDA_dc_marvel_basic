@@ -5,13 +5,6 @@ Este projeto consiste em uma análise exploratória de dados comparativa das bil
 ## Descrição
 Neste projeto, exploramos um conjunto de dados contendo informações sobre os filmes lançados pelos estúdios DC e Marvel, incluindo dados de bilheteria, críticas, elenco, entre outros. Utilizamos técnicas de visualização e análise de dados para investigar padrões, tendências e disparidades entre as franquias.
 
-## Estrutura do Repositório
-**notebooks/**: Esta pasta contém o Jupyter Notebook principal com o código da análise exploratória.
-
-**data/**: Aqui você encontrará o conjunto de dados utilizado na análise, em formato CSV.
-
-**README.md**: Este arquivo que você está lendo agora, contendo informações sobre o projeto e instruções de uso.
-
 ## Instruções de Uso
 1. Clone este repositório em sua máquina local:
 
