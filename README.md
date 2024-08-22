@@ -1,4 +1,4 @@
-# Análise Exploratória de Dados (EDA) - Bilheteria da DC vs. Marvel
+# Projeto Data Science: Análise da Bilheteria da DC vs. Marvel
 
 Este projeto consiste em uma análise exploratória de dados comparativa das bilheterias dos filmes produzidos pelos estúdios DC e Marvel. O objetivo é fornecer insights sobre o desempenho financeiro de ambos os universos cinematográficos ao longo do tempo.
 
